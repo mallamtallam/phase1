@@ -1,0 +1,24 @@
+body{
+	background-color: aqua;
+}
+.main{
+	background-color: pink;
+	display: flex;
+    justify-content: space-around;
+    margin:10%;
+    border-radius: 5%;
+}
+.sub{
+	background: yellow;
+	border-radius: 5%;
+	margin: 2%;
+	text-align: center;
+	box-shadow: 4px 4px 4px 4px;
+}
+img{
+	margin:4%;
+	border-radius: 2%;
+	width:70%;
+	height: 30;
+	border-radius: 5%;
+}

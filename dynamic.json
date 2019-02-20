@@ -1,0 +1,48 @@
+{
+	"profile":
+	{
+		"img":"download.jpg",
+		"name":"thanmayi",
+		"roll":"1213",
+		"place":"kandukur",
+		"email":"cheedellasailakshmi1999@gmail.com"
+	},
+	"career":
+	{
+		"info":"i wonna to reach my ambition  as soon as possible it should want to be completed fastly" 
+	},
+	"education":
+	[
+		{
+
+		"degree":"b.tech",
+		"institute":"vignan",
+		"percentage":"85.6",
+		"yop":"2021"
+	},
+	{
+		"degree":"intermediate",
+		"institute":"viveka",
+		"percentage":"90.6",
+		"yop":"2017"
+	},
+	{
+		"degree":"ssc",
+		"institute":"chaitanya",
+		"percentage":"80.4",
+		"yop":"2015"
+	}
+	],
+	"languages":
+	[
+		{
+			"info":"telugu"
+		},
+		{
+			"info":"hindi"
+		},
+		{
+			"info":"maths"
+		}
+	]
+}
